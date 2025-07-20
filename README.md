@@ -16,9 +16,7 @@ Simple Python Tkinter app for creating basketball shot charts with make and miss
 
 1. Clone repo:
 
-   '''bash
-   git clone https://github.com/ausmango/shot-chart-generator.git
-   cd shot-chart-generator
+   git clone https://github.com/ausmango/Shot-Chart-Generator.git
 
 2. Install dependencies
 
