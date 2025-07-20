@@ -2,7 +2,7 @@
 
 Simple Python Tkinter app for creating basketball shot charts with make and miss buttons. 
 
-* Allows loading any court image with a file picker
+* Allows user to upload any file from their desktop
 * Undo and Reset buttons 
 * Make - Green Circle | Miss - Red X
 * Exports annotated chart as a PNG image
