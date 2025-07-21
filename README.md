@@ -20,4 +20,4 @@ Simple Python Tkinter app for creating basketball shot charts with make and miss
 
 2. Install dependencies
 
-   pil install Pillow
+   pip install Pillow
