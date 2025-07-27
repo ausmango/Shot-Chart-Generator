@@ -1,6 +1,6 @@
 # 🏀 Shot-Chart-Generator
 
-Simple Python Tkinter app for creating basketball shot charts with make and miss buttons. 
+Simple Python Tkinter app for creating basketball shot charts with make and miss buttons. I made this little project in connection with my statistican role.
 
 * Allows user to upload any file from their desktop
 * Undo and Reset buttons 
