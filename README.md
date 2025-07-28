@@ -1,23 +1,29 @@
 # 🏀 Shot-Chart-Generator
 
-Simple Python Tkinter app for creating basketball shot charts with make and miss buttons. I made this little project in connection with my statistican role.
+A simple Python Tkinter app for creating basketball shot charts interactively. I built this project while working as a statistician for my college's club basketball team to make my workflow faster and more visual.
 
-* Allows user to upload any file from their desktop
-* Undo and Reset buttons 
-* Make - Green Circle | Miss - Red X
-* Exports annotated chart as a PNG image
+## Features
 
-# Requirements
+- Upload any basketball court image from your desktop
+- Click to add shot results — choose between Make and Miss
+- Make = Green Circle, Miss = Red X
+- Undo last shot or Reset all
+- View total Makes, Misses, and calculated FG%
+- Export the final annotated chart as a PNG image
+
+## Requirements
 
 - Python 3.7+
-- Pillow library
+- Pillow (PIL)
 
-# Installation
+## Installation
 
-1. Clone repo:
+1. Clone the repository:
 
+   ```bash
    git clone https://github.com/ausmango/Shot-Chart-Generator.git
+   cd Shot-Chart-Generator
 
 2. Install dependencies
-
    pip install Pillow
+
