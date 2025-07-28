@@ -25,5 +25,6 @@ A simple Python Tkinter app for creating basketball shot charts interactively. I
    cd Shot-Chart-Generator
 
 2. Install dependencies
-   pip install Pillow
+
+      pip install Pillow
 
